@@ -1,19 +1,41 @@
 # GT-5DER
 FIRST CREATION AND FIRST TIME, TRYING NEW
-💗 Welcome to GT-5DER!  
-This is a cute and girly project created for learning, exploring, and having fun with GitHub
-GT-5DER is a beginner-friendly repository made to practice coding, editing files, and writing documentation.  
-It’s all about growth, creativity, and confidence ✨
-- Learn how GitHub works  
-- Practice Markdown writing  
-- Explore new ideas in a fun way  
-- Build skills step by step 💕
-- GitHub  
-- Markdown (.md)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>GT-5DER</title>
+  <style>
+    body {
+      background-color: #ffe6f0;
+      font-family: "Comic Sans MS", cursive;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #ff4da6;
+    }
+    p {
+      color: #cc0066;
+      font-size: 18px;
+    }
+    .box {
+      background: #fff0f5;
+      border-radius: 20px;
+      padding: 30px;
+      width: 300px;
+      margin: auto;
+      box-shadow: 0 0 10px pink;
+    }
+  </style>
+</head>
+<body>
 
-1. Open the repository  
-2. Read the README  
-3. Edit and save changes  
-4. Keep learning and improving 💖
-5. 🌸 Still learning and improving 🌸
-   Marie Lee Fabula 💗
+  <div class="box">
+    <h1>🎀 GT-5DER 🎀</h1>
+    <p>girly • cute • beginner project 💕</p>
+    <p>learning + coding + confidence ✨</p>
+  </div>
+
+</body>
+</html>
